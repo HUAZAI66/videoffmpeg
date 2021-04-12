@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="/XVideoUI">
+    <file>close.png</file>
+    <file>mini.png</file>
+    <file>Resources/close.png</file>
+    <file>Resources/mini.png</file>
+    <file>Resources/PauseH.png</file>
+    <file>Resources/PauseN.png</file>
+    <file>Resources/PauseP.png</file>
+    <file>Resources/PlayD.png</file>
+    <file>Resources/PlayH.png</file>
+    <file>Resources/PlayN.png</file>
+    <file>Resources/PlayP.png</file>
+    <file>close.png</file>
+    <file>mini.png</file>
+  </qresource>
+</RCC>
